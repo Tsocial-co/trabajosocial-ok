@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "¿Cuál de los siguientes enunciados representa más fielmente la visión del programa de Trabajo Social de la Universidad Mariana?",
+    "options": [
+      { "text": "Los profesionales de Trabajo Social deben tener una sólida formación asistencial para resolver las necesidades individuales de los sujetos.", "isCorrect": false },
+      { "text": "La intervención del trabajador social se basa en ejecutar políticas previamente establecidas, sin necesidad de interpretar el contexto social.", "isCorrect": false },
+      { "text": "La formación en Trabajo Social debe centrarse en el desarrollo de competencias investigativas que permitan actuar críticamente sobre la realidad social desde una perspectiva inclusiva y democrática.", "isCorrect": true },
+      { "text": "El enfoque del Trabajo Social en este programa prioriza la intervención individual como herramienta principal para el cambio social.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "¿Qué competencias se espera que desarrolle un egresado de Trabajo Social en la Universidad Mariana?",
+    "options": [
+      { "text": "Solo habilidades administrativas y contables", "isCorrect": false },
+      { "text": "Capacidad crítica, ética, compromiso social, trabajo interdisciplinario y uso de tecnología para intervenir en individuos, familias, grupos y comunidades", "isCorrect": true },
+      { "text": "Dominio exclusivo de técnicas de psicoterapia", "isCorrect": false },
+      { "text": "Conocimientos en ingeniería social y marketing", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "¿En qué áreas puede intervenir un trabajador social según sus funciones profesionales?",
+    "options": [
+      { "text": "En el área de familia, salud, comunidad, organizaciones, educación, medio ambiente e infraestructura y organismos internacionales", "isCorrect": true },
+      { "text": "Solo salud, familia y educación", "isCorrect": false },
+      { "text": "Exclusivamente en empresas privadas", "isCorrect": false },
+      { "text": "Únicamente en el gobierno central", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "¿Qué aspecto destaca la Universidad Mariana en la formación de sus trabajadores sociales?",
+    "options": [
+      { "text": "Uso exclusivo de metodologías virtuales", "isCorrect": false },
+      { "text": "Integración de prácticas preprofesionales en contextos reales con enfoque ético", "isCorrect": true },
+      { "text": "Enfoque en marketing social para recaudación de fondos", "isCorrect": false },
+      { "text": "Formación en ingeniería civil aplicada a comunidades", "isCorrect": false }
+    ]
+  }
+]

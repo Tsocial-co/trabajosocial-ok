@@ -1,0 +1,14 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- El fondo es transparente por defecto -->
+  
+  <!-- Textos centrados con mayor espacio -->
+  <text x="400" y="100" font-family="Arial, sans-serif" font-size="70" font-weight="bold" fill="#0047AB" text-anchor="middle">Universidad</text>
+  <text x="400" y="200" font-family="Arial, sans-serif" font-size="85" font-weight="bold" fill="#0047AB" text-anchor="middle">MARIANA</text>
+  
+  <!-- Línea centrada -->
+  <rect x="350" y="230" width="100" height="5" fill="#0099CC"/>
+  
+  <!-- Textos inferiores centrados -->
+  <text x="400" y="310" font-family="Arial, sans-serif" font-size="55" font-weight="bold" fill="#0047AB" text-anchor="middle">Acreditada en</text>
+  <text x="400" y="400" font-family="Arial, sans-serif" font-size="90" font-weight="bold" fill="#0047AB" text-anchor="middle">ALTA CALIDAD</text>
+</svg>
